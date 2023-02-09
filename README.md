@@ -2,9 +2,6 @@
 <h3 align="center">Biomedical Engineering Student </h3>
 
 - 🔭 I’m currently studying at **Universidad Europea**
-- 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
-
-- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
 
 - 📫 How to reach me **julio.herreros.jh6@gmail.com**
 
